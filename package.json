@@ -5,9 +5,16 @@
   "files": [
     "lib"
   ],
+  "scripts": {
+    "build": "rimraf lib && node svg-build-scripts/build.js",
+    "prepublish": "npm run build"
+  },
   "author": {
     "name": "Kirill Volkovich",
     "email": "volkovich@scand.com"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "rimraf": "^2.5.4"
+  }
 }
