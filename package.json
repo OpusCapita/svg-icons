@@ -1,5 +1,5 @@
 {
-  "name": "jcatalog-svg-icons",
+  "name": "@opuscapita/svg-icons",
   "version": "0.0.4",
   "description": "",
   "files": [
@@ -11,7 +11,7 @@
   },
   "author": {
     "name": "Kirill Volkovich",
-    "email": "volkovich@scand.com"
+    "email": "kirill.volkovich@jcatalog.com"
   },
   "license": "ISC",
   "devDependencies": {
