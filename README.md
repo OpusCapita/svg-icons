@@ -39,6 +39,8 @@ Font-based icons like **font-awesome** have a lot of **limitations**:
 let buildIcon = require('!!raw-loader!jcatalog-svg-icons/lib/build.svg');
 ```
 
+In this way you get a raw *.svg* file content.
+
 If `require` not working, ensure [raw-loader](https://www.npmjs.com/package/raw-loader) installed.
 
 ## License
