@@ -23,10 +23,10 @@ Font-based icons like **font-awesome** have a lot of **limitations**:
 
   [Why and how I’m using SVG sprites over fonts for icons](https://medium.com/@webprolific/why-and-how-i-m-using-svg-over-fonts-for-icons-7241dab890f0#.5bc934hd5)
 
-### Difference from base library
+### Difference from base [Google Material Icons](https://github.com/google/material-design-icons/) library
 * Much reduced resulting package size (~60MB vs ~500KB)
 * Icon files paths normalized to `[package-name]/lib/[icon-name]`
-
+* Removed hardcoded color values in a few icons
 
 ## Usage
 
@@ -36,7 +36,7 @@ Font-based icons like **font-awesome** have a lot of **limitations**:
 let buildIcon = require('!!raw-loader!jcatalog-svg-icons/lib/build.svg');
 ```
 
-If `require` not working, ensure [raw-loader](https://www.npmjs.com/package/raw-loader) installer.
+If `require` not working, ensure [raw-loader](https://www.npmjs.com/package/raw-loader) installed.
 
 ## License
 
