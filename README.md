@@ -10,8 +10,8 @@ Initially based on [Google Material Icons](https://github.com/google/material-de
 Font-based icons like **font-awesome** have a lot of **limitations**:
 
 * *font-based icons* is a **global dependency**
-* *font-based icons* are not extendable. You have no chance to easilly add a new icon
-* Different browser have different font render engines *font-based-icons* 
+* *font-based icons* are **not extendable**. You have no chance to easilly add a new icon
+* Different browser have **different font render engines** *font-based-icons* 
 
 **Related articles on this topic**
 
