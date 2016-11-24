@@ -13,7 +13,7 @@ Font-based icons like **font-awesome** have a lot of **limitations**:
 * *font-based icons* are not extendable. You have no chance to easilly add a new icon
 * Different browser have different font render engines *font-based-icons* 
 
-**There are articles on this topic:**
+**There are articles on this topic**
 
 * **[Chris Coyier](http://chriscoyier.net/about/)** ([CSS-Tricks](https://css-tricks.com/) and [codepen.io](http://codepen.io/) co-founder): 
   
@@ -30,10 +30,14 @@ Font-based icons like **font-awesome** have a lot of **limitations**:
 
 ## Usage
 
-### Using with webpack: 
+### Using with webpack
 
 ```js
-let svgBuildIcon = require('!!raw-loader!jcatalog-svg-icons/lib/build.svg');
+let buildIcon = require('!!raw-loader!jcatalog-svg-icons/lib/build.svg');
 ```
 
 If `require` not working, ensure [raw-loader](https://www.npmjs.com/package/raw-loader) installer.
+
+## License
+
+OpusCapita 2016
