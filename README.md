@@ -30,7 +30,10 @@ Font-based icons like **font-awesome** have a lot of **limitations**:
 
 ## Usage
 
-### Using with webpack
+### Installation
+`npm install --save -E @opuscapita/svg-icons`
+
+### Import an icon using webpack
 
 ```js
 let buildIcon = require('!!raw-loader!jcatalog-svg-icons/lib/build.svg');
