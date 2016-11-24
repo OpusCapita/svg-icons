@@ -13,7 +13,7 @@ Font-based icons like **font-awesome** have a lot of **limitations**:
 * *font-based icons* are not extendable. You have no chance to easilly add a new icon
 * Different browser have different font render engines *font-based-icons* 
 
-**There are articles on this topic**
+**Related articles on this topic**
 
 * **[Chris Coyier](http://chriscoyier.net/about/)** ([CSS-Tricks](https://css-tricks.com/) and [codepen.io](http://codepen.io/) co-founder): 
   
