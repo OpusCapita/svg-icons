@@ -13,9 +13,15 @@ Font-based icons like **font-awesome** have a lot of **limitations**:
 * *font-based icons* are not extendable. You have no chance to easilly add a new icon
 * Different browser have different font render engines *font-based-icons* 
 
-**There are several good articles on this topic:**
+**There are articles on this topic:**
 
-[CHRIS COYIER: Inline SVG vs Icon Fonts](https://css-tricks.com/icon-fonts-vs-svg/)
+* **[Chris Coyier](http://chriscoyier.net/about/)** ([CSS-Tricks](https://css-tricks.com/) and [codepen.io](http://codepen.io/) co-founder): 
+  
+  [Inline SVG vs Icon Fonts](https://css-tricks.com/icon-fonts-vs-svg/)
+  
+* **[Lars Kappert](https://github.com/webpro)** : 
+
+  [Why and how I’m using SVG sprites over fonts for icons](https://medium.com/@webprolific/why-and-how-i-m-using-svg-over-fonts-for-icons-7241dab890f0#.5bc934hd5)
 
 ### Difference from base library
 * Much reduced resulting package size (~60MB vs ~500KB)
