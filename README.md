@@ -11,15 +11,15 @@ Font-based icons like **font-awesome** have a lot of **limitations**:
 
 * *font-based icons* is a **global dependency**
 * *font-based icons* are **not extendable**. You have no chance to easilly add a new icon
-* Different browser have **different font render engines** *font-based-icons* 
+* Different browser have **different font render engines** *font-based-icons*
 
 **Related articles on this topic**
 
-* **[Chris Coyier](http://chriscoyier.net/about/)** ([CSS-Tricks](https://css-tricks.com/) and [codepen.io](http://codepen.io/) co-founder): 
-  
+* **[Chris Coyier](http://chriscoyier.net/about/)** ([CSS-Tricks](https://css-tricks.com/) and [codepen.io](http://codepen.io/) co-founder):
+
   [Inline SVG vs Icon Fonts](https://css-tricks.com/icon-fonts-vs-svg/)
-  
-* **[Lars Kappert](https://github.com/webpro)** : 
+
+* **[Lars Kappert](https://github.com/webpro)** :
 
   [Why and how I’m using SVG sprites over fonts for icons](https://medium.com/@webprolific/why-and-how-i-m-using-svg-over-fonts-for-icons-7241dab890f0#.5bc934hd5)
 
@@ -36,7 +36,7 @@ Font-based icons like **font-awesome** have a lot of **limitations**:
 ### Import an icon using webpack
 
 ```js
-let buildIcon = require('!!raw-loader!jcatalog-svg-icons/lib/build.svg');
+let buildIcon = require('!!raw-loader!@opuscapita/svg-icons/lib/build.svg');
 ```
 
 In this way you get a raw *.svg* file content.
