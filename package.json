@@ -1,13 +1,15 @@
 {
   "name": "@opuscapita/svg-icons",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "",
   "files": [
     "lib"
   ],
   "scripts": {
-    "build": "rimraf lib && node svg-build-scripts/build.js",
-    "prepublish": "npm run build"
+    "npm-build": "rimraf lib && node scripts/build.js",
+    "npm-publish": "npm run npm-build && npm-publish",
+    "publish-snapshot": "npm run npm-publish",
+    "publish-release": "npm run npm-publish -- --release"
   },
   "author": {
     "name": "Kirill Volkovich",
@@ -15,6 +17,7 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "rimraf": "^2.5.4"
+    "@opuscapita/npm-scripts": "1.0.0",
+    "rimraf": "2.5.4"
   }
 }
