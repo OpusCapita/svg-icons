@@ -1,4 +1,4 @@
-# js-svg-icons
+# JS - SVG icons
 
 ## Synopsis
 
