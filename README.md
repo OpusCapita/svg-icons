@@ -43,6 +43,10 @@ In this way you get a raw *.svg* file content.
 
 If `require` not working, ensure [raw-loader](https://www.npmjs.com/package/raw-loader) installed.
 
+### Contributing
+
+See [contributing guide](./CONTRIBUTING.md)
+
 ## License
 
 OpusCapita 2016
