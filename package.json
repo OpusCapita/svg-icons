@@ -16,6 +16,10 @@
     "email": "kirill.volkovich@jcatalog.com"
   },
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpusCapitaBES/js-ui-svg-icons"
+  },
   "devDependencies": {
     "@opuscapita/npm-scripts": "1.0.0",
     "rimraf": "2.5.4"
