@@ -31,7 +31,7 @@ Font-based icons like **font-awesome** have a lot of **limitations**:
 ## Usage
 
 ### Installation
-`npm install --save -E @opuscapita/svg-icons`
+`npm install --save -E @opuscapita/ui-svg-icons`
 
 ### Import an icon using webpack
 
