@@ -33,7 +33,7 @@ Font-based icons like **font-awesome** have a lot of **limitations**:
 ### Installation
 `npm install --save -E @opuscapita/ui-svg-icons`
 
-### Import an icon using webpack
+### Import an icon using [webpack](https://webpack.github.io/)
 
 ```js
 let buildIcon = require('!!raw-loader!@opuscapita/ui-svg-icons/lib/build.svg');
