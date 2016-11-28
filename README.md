@@ -31,12 +31,12 @@ Font-based icons like **font-awesome** have a lot of **limitations**:
 ## Usage
 
 ### Installation
-`npm install --save -E @opuscapita/svg-icons`
+`npm install --save -E @opuscapita/ui-svg-icons`
 
 ### Import an icon using webpack
 
 ```js
-let buildIcon = require('!!raw-loader!@opuscapita/svg-icons/lib/build.svg');
+let buildIcon = require('!!raw-loader!@opuscapita/ui-svg-icons/lib/build.svg');
 ```
 
 In this way you get a raw *.svg* file content.
