@@ -1,4 +1,10 @@
 
+Release 1.0.3 Thu Dec 15 2016 11:22:42 GMT+0300 (+03)
+=======================================================
+
+ - Added license (kirillvolkovich <kirill.volkovich@jcatalog.com>, Thu Dec 15 11:22:35 2016 +0300)
+ - Updating to a version to  1.0.3 (kirillvolkovich <kirill.volkovich@jcatalog.com>, Thu Dec 15 11:13:52 2016 +0300)
+
 Release 1.0.2 Thu Dec 15 2016 11:13:42 GMT+0300 (+03)
 =======================================================
 
