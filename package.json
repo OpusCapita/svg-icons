@@ -1,5 +1,5 @@
 {
-  "name": "@opuscapita/ui-svg-icons",
+  "name": "opuscapita-ui-svg-icons",
   "version": "1.0.1",
   "description": "",
   "files": [
@@ -11,17 +11,16 @@
     "publish-snapshot": "npm run npm-publish",
     "publish-release": "npm run npm-publish -- --release"
   },
-  "author": {
-    "name": "Kirill Volkovich",
-    "email": "kirill.volkovich@jcatalog.com"
+  "license": "Apache-2.0",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
-  "license": "UNLICENSED",
   "repository": {
     "type": "git",
     "url": "https://github.com/OpusCapitaBES/js-ui-svg-icons"
   },
   "devDependencies": {
-    "@opuscapita/npm-scripts": "1.0.0",
+    "opuscapita-npm-scripts": "1.0.5",
     "rimraf": "2.5.4"
   }
 }
