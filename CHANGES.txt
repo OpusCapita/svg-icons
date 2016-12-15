@@ -1,4 +1,13 @@
 
+Release 1.0.1 Thu Dec 15 2016 11:11:10 GMT+0300 (+03)
+=======================================================
+
+ - Prepared to publish => npmjs.com (kirillvolkovich <kirill.volkovich@jcatalog.com>, Thu Dec 15 11:09:31 2016 +0300)
+ - Updating License (Alexey Sergeev <alexey.sergeev@jcatalog.com>, Tue Nov 29 09:40:28 2016 +0300)
+ - Added 'repository' field to package.json (volkovich <Kirill.Volkovich@jcatalog.com>, Mon Nov 28 17:31:20 2016 +0300)
+ - Update README.md (Kirill Volkovich <kirill.volkovich@jcatalog.com>, Mon Nov 28 15:13:59 2016 +0300)
+ - Updating to a version to  1.0.1 (volkovich <Kirill.Volkovich@jCatalog.com>, Mon Nov 28 15:05:43 2016 +0300)
+
 Release 1.0.0 Mon Nov 28 2016 14:55:44 GMT+0300 (MSK)
 =======================================================
 
