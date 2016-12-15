@@ -49,4 +49,5 @@ See [contributing guide](./CONTRIBUTING.md)
 
 ## License
 
-OpusCapita 2016
+**OpusCapita svg icons** is licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full license text.
+
