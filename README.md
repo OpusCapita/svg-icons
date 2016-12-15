@@ -1,4 +1,4 @@
-# JS - SVG icons
+# OpusCapita svg icons
 
 ## Synopsis
 
