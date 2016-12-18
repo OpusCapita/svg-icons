@@ -46,8 +46,3 @@ If `require` not working, ensure [raw-loader](https://www.npmjs.com/package/raw-
 ## Contributing
 
 See [contributing guide](./CONTRIBUTING.md)
-
-## License
-
-**OpusCapita svg icons** is licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full license text.
-
