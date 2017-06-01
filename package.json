@@ -1,7 +1,7 @@
 {
-  "name": "opuscapita-ui-svg-icons",
+  "name": "@opuscapita/svg-icons",
   "version": "1.0.6",
-  "description": "",
+  "description": "OpusCapita svg icons",
   "files": [
     "lib"
   ],
@@ -11,13 +11,18 @@
     "publish-snapshot": "npm run npm-publish",
     "publish-release": "npm run npm-publish -- --release"
   },
-  "license": "UNLICENSED",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/OpusCapitaBES/js-ui-svg-icons"
+  "contributors": [
+    "Kirill Volkovich <kirill.volkovich@jcatalog.com>",
+    "Alexey Sergeev <alexey.sergeev@jcatalog.com>"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
+  "repository": "OpusCapitaBES/svg-icons",
+  "license": "Apache-2.0",
   "devDependencies": {
-    "opuscapita-npm-scripts": "1.0.5",
+    "@opuscapita/npm-scripts": "1.0.8",
     "rimraf": "2.5.4"
   }
 }

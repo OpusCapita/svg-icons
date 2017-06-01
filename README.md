@@ -31,18 +31,26 @@ Font-based icons like **font-awesome** have a lot of **limitations**:
 ## Usage
 
 ### Installation
-`npm install --save -E opuscapita-ui-svg-icons`
+`npm install --save -E @opuscapita/svg-icons`
 
 ### Import an icon using [webpack](https://webpack.github.io/)
 
 ```js
-let buildIcon = require('!!raw-loader!@opuscapita/ui-svg-icons/lib/build.svg');
+let buildIcon = require('!!raw-loader!@opuscapita/svg-icons/lib/build.svg');
 ```
 
 In this way you get a raw *.svg* file content.
 
 If `require` not working, ensure [raw-loader](https://www.npmjs.com/package/raw-loader) installed.
 
-## Contributing
+## Contributors
 
-See [contributing guide](./CONTRIBUTING.md)
+| <img src="https://avatars.githubusercontent.com/u/24652543?v=3" width="100px;"/> | [**Kirill Volkovich**](https://github.com/kvolkovich-sc) |
+| :---: | :---: |
+| <img src="https://avatars.githubusercontent.com/u/24603787?v=3" width="100px;"/> | [**Alexey Sergeev**](https://github.com/asergeev-sc)     |
+
+Your contribution is welcome. We need YOU! :metal:
+
+## License
+
+Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full license text.
