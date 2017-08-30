@@ -1,4 +1,10 @@
 
+Release 1.0.7 Wed Aug 30 2017 17:09:31 GMT+0300 (+03)
+=======================================================
+
+ - Adding yarn.lock to ignored files (Alexey Sergeev <sab@scand.com>, Thu Jun 1 17:03:04 2017 +0300)
+ - Updating to a version to  1.0.7 (Alexey Sergeev <sab@scand.com>, Thu Jun 1 17:01:59 2017 +0300)
+
 Release 1.0.6 Thu Jun 01 2017 17:01:46 GMT+0300 (+03)
 =======================================================
 
