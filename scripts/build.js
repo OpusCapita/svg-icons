@@ -17,5 +17,3 @@ svgFilesNames.map(svgFileName => {
   let readyFileContent = Object.keys(pipes).reduce((result, pipeName) => pipes[pipeName](result), fileContent);
   fs.writeFileSync(svgDestinationFilePath, readyFileContent);
 });
-
-

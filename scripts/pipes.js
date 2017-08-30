@@ -6,7 +6,7 @@ function addFocusableFalse(svgString) {
 }
 
 function removeHardcodedFill(svgString) {
-  return svgString.replace(/fill=('|").*('|")/gi, '');
+  return svgString.replace(/fill=('|").{7}('|")/gi, '');
 }
 
 module.exports = {
