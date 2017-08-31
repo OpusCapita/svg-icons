@@ -1,7 +1,7 @@
 {
   "name": "@opuscapita/svg-icons",
   "version": "1.0.10",
-  "description": "OpusCapita svg icons",
+  "description": "OpusCapita SVG Icons",
   "files": [
     "lib"
   ],
@@ -19,7 +19,7 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "repository": "OpusCapitaBES/svg-icons",
+  "repository": "OpusCapita/svg-icons",
   "license": "Apache-2.0",
   "devDependencies": {
     "@opuscapita/npm-scripts": "1.0.8",
