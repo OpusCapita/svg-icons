@@ -1,4 +1,13 @@
 
+Release 1.1.0 Tue Sep 26 2017 12:11:11 GMT+0300 (+03)
+=======================================================
+
+ - Patch minor package version (Kirill Volkovich <kirill.volkovich@jcatalog.com>, Tue Sep 26 12:10:49 2017 +0300)
+ - Fix opuscapita applications icons (Kirill Volkovich <kirill.volkovich@jcatalog.com>, Tue Sep 26 12:10:36 2017 +0300)
+ - Add opuscapita applications icons (Kirill Volkovich <kirill.volkovich@jcatalog.com>, Tue Sep 26 12:07:05 2017 +0300)
+ - Fixing package repository (Alexey Sergeev <asergeev-sc@users.noreply.github.com>, Thu Aug 31 22:37:49 2017 +0300)
+ - Updating to a version to  1.0.10 (Kirill Volkovich <kirill.volkovich@jcatalog.com>, Wed Aug 30 18:29:19 2017 +0300)
+
 Release 1.0.9 Wed Aug 30 2017 18:28:11 GMT+0300 (+03)
 =======================================================
 
