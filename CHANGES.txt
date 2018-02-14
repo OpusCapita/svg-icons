@@ -1,4 +1,10 @@
 
+Release 1.1.2 Wed Feb 14 2018 13:05:10 GMT+0300 (+03)
+=======================================================
+
+ - Removing titles from opuscapita applications icons. (Dmitriy Sanko <dsanko@scand.com>, Wed Feb 14 13:03:07 2018 +0300)
+ - Updating to a version to  1.1.2 (Kirill Volkovich <kirill.volkovich@jcatalog.com>, Wed Sep 27 12:47:49 2017 +0300)
+
 Release 1.1.1 Wed Sep 27 2017 12:47:38 GMT+0300 (+03)
 =======================================================
 
