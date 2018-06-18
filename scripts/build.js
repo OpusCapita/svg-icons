@@ -18,7 +18,7 @@ svgFilesNames.map(svgFileName => {
   let svgSourceFilePath = path.join(sourcePath, svgFileName);
   let svgDestinationFilePath = path.join(destinationPath, svgFileName);
   let fileContent = fs.readFileSync(svgSourceFilePath, 'utf-8');
-  let readyFileContent = unprocessableFiles.indexOf(svgFileName) === -1 ?
+  let readyFileContent = unprocessableFiles.indexOf(svgFileName) !== -1 ?
     fileContent :
     Object.keys(pipes).reduce((result, pipeName) => pipes[pipeName](result), fileContent);
   fs.writeFileSync(svgDestinationFilePath, readyFileContent);
