@@ -1,6 +1,6 @@
 {
   "name": "@opuscapita/svg-icons",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "OpusCapita SVG Icons",
   "files": [
     "lib"
