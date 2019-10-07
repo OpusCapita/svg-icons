@@ -1,4 +1,10 @@
 
+Release 1.1.5 Mon Oct 07 2019 07:23:47 GMT+0300 (Moscow Standard Time)
+=======================================================
+
+ - Added new reporting service icon (Anders <anders.larsson.funkis@gmail.com>, Sun Sep 22 11:53:45 2019)
+ - Updating to a version to  1.1.5 (Kirill Volkovich <kirill.volkovich@opuscapita.com>, Mon Jun 18 12:43:42 2018)
+
 Release 1.1.4 Mon Jun 18 2018 12:43:21 GMT+0300 (+03)
 =======================================================
 
